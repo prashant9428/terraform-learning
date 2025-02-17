@@ -10,3 +10,4 @@ resource "aws_instance" "myTestServer" {
     Name: "myTestServer"
   }
 }
+
